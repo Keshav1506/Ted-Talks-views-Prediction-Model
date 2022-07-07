@@ -106,4 +106,4 @@ In this project we are implementing 7 machine learning algorithms to predict the
 |[Arvind Krishna](https://github.com/Arvind-krishna) |     killerdude.arvind@gmail.com    |
 |[Keshav Sharma](https://github.com/Keshav1506) |    keshav1506sharma@gmail.com    |
 |[Jayesh Panchal](https://github.com/Jayesh-Panchal) |     jaypan290497@gmail.com    |
-|[Sahil Ahuja](https://github.com) |     s.ahuja38@gmail.com    |
+|[Sahil Ahuja](https://github.com/saahilahujaa) |     s.ahuja38@gmail.com    |
